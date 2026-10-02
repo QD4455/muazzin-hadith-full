@@ -4,133 +4,134 @@
     "numbering":  "Open-Hadith-Data merged numbering",
     "total":  5362,
     "withTafseel":  3266,
+    "withSanad":  3050,
     "shards":  [
                    {
                        "file":  "full_muslim_1.json",
-                       "sha256":  "032d4ef34706d7eaed43bcbbd6e09ae0bf0097343e167870a87c208b760fda96",
-                       "bytes":  1142543,
+                       "sha256":  "b37c33c5307925569951b4f545bb78e166f2867a634415eeafc7f9dc76a4364b",
+                       "bytes":  1147961,
                        "from":  1,
                        "to":  139
                    },
                    {
                        "file":  "full_muslim_2.json",
-                       "sha256":  "49630a1889d9b50687056609fd87b0155098446db5960ebcfb58dee5a0ef65df",
-                       "bytes":  1208785,
+                       "sha256":  "cd72e7c1f2a99049c3ad7707b0d4526883bff0f73fd18b3ec51bb483b4512134",
+                       "bytes":  1214708,
                        "from":  140,
                        "to":  300
                    },
                    {
                        "file":  "full_muslim_3.json",
-                       "sha256":  "7831cec2ec80f12efa8b9acf9e73b77d9bc48196a6db8abc592d5fbcd9a30c92",
-                       "bytes":  1224068,
+                       "sha256":  "8749003cef1cafcd9c301f62762f1e6366959e4c04bcbd7b62707cb6cb51ad93",
+                       "bytes":  1210094,
                        "from":  301,
-                       "to":  603
+                       "to":  601
                    },
                    {
                        "file":  "full_muslim_4.json",
-                       "sha256":  "2e4f2357011244703a557c0b336d8d117be3f4439ef8541f82beb82eb5494446",
-                       "bytes":  1268156,
-                       "from":  604,
-                       "to":  963
+                       "sha256":  "f0a65803e66c52726cc27963916dab8db46d029789d7ad816f12885e39b59762",
+                       "bytes":  1273883,
+                       "from":  602,
+                       "to":  956
                    },
                    {
                        "file":  "full_muslim_5.json",
-                       "sha256":  "0cb5decfc5053726f85615b4513f5798a7629230ff0cb6e29e1fe6083876757c",
-                       "bytes":  1278911,
-                       "from":  964,
-                       "to":  1355
+                       "sha256":  "b75dcd2417df0f67b0d89fe1f8a56513ac0edf75d4977e8415fdfb1c94e458b4",
+                       "bytes":  1285700,
+                       "from":  957,
+                       "to":  1353
                    },
                    {
                        "file":  "full_muslim_6.json",
-                       "sha256":  "ffc4c4ae8491a2e0f90fac2d847679180e4d429a0a5a981864a9286a9e009eb7",
-                       "bytes":  1274707,
-                       "from":  1356,
-                       "to":  1676
+                       "sha256":  "9381c77f9d2ac0e9098e99b69e2b432fe40666b9d5bedeb11f9d5ae78bee7472",
+                       "bytes":  1274336,
+                       "from":  1354,
+                       "to":  1672
                    },
                    {
                        "file":  "full_muslim_7.json",
-                       "sha256":  "c50211d07a2b74a0b0dd5cebcec1b7dbaba286e58f4d531fcdc34c7af4fefec9",
-                       "bytes":  1291555,
-                       "from":  1677,
-                       "to":  2058
+                       "sha256":  "e3767a6f26e197ed6ef126b622ffff68d040e9bde82cf3d6b871fb18d8b2826b",
+                       "bytes":  1295757,
+                       "from":  1673,
+                       "to":  2042
                    },
                    {
                        "file":  "full_muslim_8.json",
-                       "sha256":  "3415e610061a678ad4fa76d7f2cf67f698853962acaa0389970ddcacc077ccb0",
-                       "bytes":  1250839,
-                       "from":  2059,
-                       "to":  2374
+                       "sha256":  "c9b86907bda12570ba9c6df74d1265458f48f270167094197e93f9f1074d09e3",
+                       "bytes":  1246396,
+                       "from":  2043,
+                       "to":  2370
                    },
                    {
                        "file":  "full_muslim_9.json",
-                       "sha256":  "a085ddc93d51d6f601c913f34eaf2d28b74b81f65a49ec32f053f63ca34020c3",
-                       "bytes":  1259589,
-                       "from":  2375,
-                       "to":  2706
+                       "sha256":  "a3e62d49372261446ac677709b5dbae5ba7ffbc25cfc44e36705cf4f4c7e398c",
+                       "bytes":  1267932,
+                       "from":  2371,
+                       "to":  2704
                    },
                    {
                        "file":  "full_muslim_10.json",
-                       "sha256":  "1cde22114cacc6b3b4b99ada6d706445d198509ca5d2c4c07f18726fead95ff0",
-                       "bytes":  1278581,
-                       "from":  2707,
-                       "to":  3083
+                       "sha256":  "f6d2a2dd12bd30a73928f33e7551e85bfa2b3a880e6bf697d4e72947031a69b0",
+                       "bytes":  1260440,
+                       "from":  2705,
+                       "to":  3075
                    },
                    {
                        "file":  "full_muslim_11.json",
-                       "sha256":  "626486afeed89a7593c413a90c3feb7f4b559fb2ef397e5889f105d3234e8dc7",
-                       "bytes":  1245640,
-                       "from":  3084,
-                       "to":  3305
+                       "sha256":  "955385c3bd2751fb8a20f8b03885d8366a3c533b481b5a065022a3dc912b31a5",
+                       "bytes":  1239543,
+                       "from":  3076,
+                       "to":  3301
                    },
                    {
                        "file":  "full_muslim_12.json",
-                       "sha256":  "405a6b3803f39c226ad0e3f0931e56ae32184d205da8ed7f95cc2ee29b20daf1",
-                       "bytes":  1267107,
-                       "from":  3306,
-                       "to":  3535
+                       "sha256":  "2d9fd77a1a133ef2f0f4d2d27f5a47a5690c8f5009fb4a0535e06b2861d09dea",
+                       "bytes":  1260416,
+                       "from":  3302,
+                       "to":  3519
                    },
                    {
                        "file":  "full_muslim_13.json",
-                       "sha256":  "a3fbce75823a9e39f8806c2d0cb98f3bf4397bba3dcef2a921ac5a2623bd8c78",
-                       "bytes":  1267694,
-                       "from":  3536,
-                       "to":  3880
+                       "sha256":  "3ebf6b01e15c23bfe9223f00eb563d3a339581e790e2b098900c496e7cce4810",
+                       "bytes":  1271954,
+                       "from":  3520,
+                       "to":  3855
                    },
                    {
                        "file":  "full_muslim_14.json",
-                       "sha256":  "ac66e863bd009ab6c5ddbdc0a54844bde854c84bc51ecb7dd95ad523a6b5f7b8",
-                       "bytes":  1261673,
-                       "from":  3881,
-                       "to":  4228
+                       "sha256":  "965216c9e1d299b6199c3d5a8ad5d81ecb8cf40f076763d5a0679f612f8cfa91",
+                       "bytes":  1267034,
+                       "from":  3856,
+                       "to":  4212
                    },
                    {
                        "file":  "full_muslim_15.json",
-                       "sha256":  "e50b28f15f79e3fa5bf7d7c1ca91b1ec8cd5eb138a29524dce5d0e555e992332",
-                       "bytes":  1283893,
-                       "from":  4229,
-                       "to":  4535
+                       "sha256":  "cd9764ce9870eb6e16cfacdb7d9a7f024804a51ffb7b012cdd6b13db79b50984",
+                       "bytes":  1275625,
+                       "from":  4213,
+                       "to":  4519
                    },
                    {
                        "file":  "full_muslim_16.json",
-                       "sha256":  "ff531162323daa2f05e1ba4b4426801edc8613657e61593f4b23a03a90459bfa",
-                       "bytes":  1314800,
-                       "from":  4536,
-                       "to":  4912
+                       "sha256":  "9fde3689da6a308ec53b1fccb516fe2565cd183d6c263b0b70f173a07d9c5665",
+                       "bytes":  1317095,
+                       "from":  4520,
+                       "to":  4884
                    },
                    {
                        "file":  "full_muslim_17.json",
-                       "sha256":  "b6390012234fe8ad3f3d86e099aa657e4d9aef53c6a8dddc8b0297af6dfc832a",
-                       "bytes":  1301669,
-                       "from":  4913,
-                       "to":  5234
+                       "sha256":  "7ef5933048534b2d601277830357a3260ba8dd52b60ecd4bc6ed083788c034cd",
+                       "bytes":  1316344,
+                       "from":  4885,
+                       "to":  5227
                    },
                    {
                        "file":  "full_muslim_18.json",
-                       "sha256":  "02d023723eb241300535f84954c9fd2ee4d546472323e4fea1a5d28e3974f94c",
-                       "bytes":  458796,
-                       "from":  5235,
+                       "sha256":  "eadc7abd0d9259dcbd7f3c76c9a1a654803ca0bcaa1b3cc09aa81d936547a43a",
+                       "bytes":  546837,
+                       "from":  5228,
                        "to":  5362
                    }
                ],
-    "totalBytes":  21879006
+    "totalBytes":  21972055
 }

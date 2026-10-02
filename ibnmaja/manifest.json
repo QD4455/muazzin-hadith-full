@@ -4,63 +4,64 @@
     "numbering":  "Open-Hadith-Data merged numbering",
     "total":  4332,
     "withTafseel":  3649,
+    "withSanad":  2382,
     "shards":  [
                    {
                        "file":  "full_ibnmaja_1.json",
-                       "sha256":  "44b375876cd1024af7adaf11c01943400c61a2d9bc9d5d24ec9561ea0360c8dc",
-                       "bytes":  1235748,
+                       "sha256":  "14c696f5d32cf28b15b7c78d7c46924a8acd9e1fc0330d84ac1fe1926734bb9f",
+                       "bytes":  1232315,
                        "from":  1,
-                       "to":  447
+                       "to":  435
                    },
                    {
                        "file":  "full_ibnmaja_2.json",
-                       "sha256":  "9e6cc1ff792663e1567ab11c44869675e308aeb96a7e8b178497328a519a757d",
-                       "bytes":  1284721,
-                       "from":  448,
-                       "to":  1070
+                       "sha256":  "c42b48e2a854c49b00e4b14479afb307dc64186b0585cba367f1838738e2317d",
+                       "bytes":  1282562,
+                       "from":  436,
+                       "to":  1054
                    },
                    {
                        "file":  "full_ibnmaja_3.json",
-                       "sha256":  "ab3673ba85e37527e47379b4b0f82baa51eddaf66bd0699bb7e731332b44d9b5",
-                       "bytes":  1284454,
-                       "from":  1071,
-                       "to":  1630
+                       "sha256":  "c9c1e715f7f782f97c61419d531742928f0f6a362dda1307073451d5d16729ad",
+                       "bytes":  1278668,
+                       "from":  1055,
+                       "to":  1615
                    },
                    {
                        "file":  "full_ibnmaja_4.json",
-                       "sha256":  "e61ea3cc980790f663605c23727c2abcd708c5004e5fd343604fb3931a47ad6a",
-                       "bytes":  1267979,
-                       "from":  1631,
-                       "to":  2198
+                       "sha256":  "01b8d71819c9c719810f79f7de7eb1a0567f8f85ba99ff042c755fb21dd885c0",
+                       "bytes":  1265528,
+                       "from":  1616,
+                       "to":  2162
                    },
                    {
                        "file":  "full_ibnmaja_5.json",
-                       "sha256":  "cbc11e2d1342a2fbfc0026579d83e756a8dfbe4aa87b0148fd9093b3a4b9fed5",
-                       "bytes":  1302373,
-                       "from":  2199,
-                       "to":  2822
+                       "sha256":  "abf2cf4cf281b8ff8135730bc36b0f176d7e072af9d499de29b6463b8fe808a9",
+                       "bytes":  1298408,
+                       "from":  2163,
+                       "to":  2777
                    },
                    {
                        "file":  "full_ibnmaja_6.json",
-                       "sha256":  "455ac9cffa0c656d4a3a5ce026f26bf234ca7feadcb9ba74e12d7f22bc123207",
-                       "bytes":  1312300,
-                       "from":  2823,
-                       "to":  3508
+                       "sha256":  "09abbb0292089e9c7c3db6a39787cb23a9f6992af7d9c58d13ac201eb7ca5c71",
+                       "bytes":  1310942,
+                       "from":  2778,
+                       "to":  3448
                    },
                    {
                        "file":  "full_ibnmaja_7.json",
-                       "sha256":  "87cb29571d78f89ecf6638c8351b27a015b9fcefcde1da06d37595994cbe2aac",
-                       "bytes":  1313152,
-                       "from":  3509,
-                       "to":  4093
+                       "sha256":  "91a49a3d3fe5df21b3ab3e1fdc57f01c8f95f1182a94985036741ecb2fb6c84d",
+                       "bytes":  1303246,
+                       "from":  3449,
+                       "to":  4064
                    },
                    {
                        "file":  "full_ibnmaja_8.json",
-                       "sha256":  "43eb0a1cb57cdcc03cacfbfb77abfc7c2fb0a709c79bba43dcc6bd119ca90c28",
-                       "bytes":  572650,
-                       "from":  4094,
+                       "sha256":  "9fe1d2389b86929c8f54113924b5151c0b2a1ec1fd208e3206fb44c09a921617",
+                       "bytes":  711167,
+                       "from":  4065,
                        "to":  4332
                    }
                ],
-    "totalBytes":  9573377
+    "totalBytes":  9682836
 }

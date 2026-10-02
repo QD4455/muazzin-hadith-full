@@ -4,70 +4,71 @@
     "numbering":  "Open-Hadith-Data merged numbering",
     "total":  5662,
     "withTafseel":  3181,
+    "withSanad":  2561,
     "shards":  [
                    {
                        "file":  "full_nasai_1.json",
-                       "sha256":  "cf6f0b3bc70b143a0a6a04f7bf54d7dacee60c0aba553b8f23dca6f0ae3359d1",
-                       "bytes":  1306893,
+                       "sha256":  "845a0a253145b3c7917d4a75ecdfeb44bc04337b58c22697788d76b04a7e5382",
+                       "bytes":  1301192,
                        "from":  1,
-                       "to":  601
+                       "to":  590
                    },
                    {
                        "file":  "full_nasai_2.json",
-                       "sha256":  "5c540b65318228706dcad424548766a993f7fec8c4085f85bcde1ad65b799608",
-                       "bytes":  1331371,
-                       "from":  602,
-                       "to":  1224
+                       "sha256":  "5a51f1686a4d78ae164e6eb01c9be98b4bf96d4f6ddf801d1c14fa572b1e64df",
+                       "bytes":  1328120,
+                       "from":  591,
+                       "to":  1210
                    },
                    {
                        "file":  "full_nasai_3.json",
-                       "sha256":  "db8e3a70dc16c06c2e205bd5e0ac1b49ce0263ce85470d20d9ea2e0191e4c5ea",
-                       "bytes":  1366554,
-                       "from":  1225,
-                       "to":  1883
+                       "sha256":  "b3b15b97b80df659629724389111d203a8b7a55d1a32e0bedcc5c4e45055cf9a",
+                       "bytes":  1365930,
+                       "from":  1211,
+                       "to":  1863
                    },
                    {
                        "file":  "full_nasai_4.json",
-                       "sha256":  "02f2f92ce50376d9982d135c10128760067480da3dbb615845ba2719dfecfcff",
-                       "bytes":  1334944,
-                       "from":  1884,
-                       "to":  2530
+                       "sha256":  "c5ec089986a76c2a44788ab46c9ce715f1cb02bb19d2d1c5dac40a61ad1811f4",
+                       "bytes":  1335619,
+                       "from":  1864,
+                       "to":  2506
                    },
                    {
                        "file":  "full_nasai_5.json",
-                       "sha256":  "edf10b4a9bbd93aa22e44aa7243a524b965f06754329513d36e8befe27c4e3cf",
-                       "bytes":  1343745,
-                       "from":  2531,
-                       "to":  3179
+                       "sha256":  "ac831980f3dc501718a63a4d4effb963c57adb51fdc123850e242e6a7ad57ec3",
+                       "bytes":  1338080,
+                       "from":  2507,
+                       "to":  3148
                    },
                    {
                        "file":  "full_nasai_6.json",
-                       "sha256":  "0cf044ef2820cf2b70c084a674e3f58603b799f403e9cab7e570096020a70fdb",
-                       "bytes":  1362347,
-                       "from":  3180,
-                       "to":  3838
+                       "sha256":  "588a32177197ab5202d22acd1bd7f1e9a39e86cfbd6df021c4e0b6106c03830d",
+                       "bytes":  1354895,
+                       "from":  3149,
+                       "to":  3773
                    },
                    {
                        "file":  "full_nasai_7.json",
-                       "sha256":  "7c26eb4c02f547b3a3c24567dff643771242ec521fadf0ddcf537106cf15c2a2",
-                       "bytes":  1360695,
-                       "from":  3839,
-                       "to":  4555
+                       "sha256":  "79c69d18bd54cdaed0083afc961c4d4dd0e80fa40c4605f86682e70a9cf859c4",
+                       "bytes":  1358507,
+                       "from":  3774,
+                       "to":  4485
                    },
                    {
                        "file":  "full_nasai_8.json",
-                       "sha256":  "c0e70a5e2cea38c46871c95416aeeae0dd2354b4307a6de5d5bf101ac0624c50",
-                       "bytes":  1359606,
-                       "from":  4556,
-                       "to":  5303
+                       "sha256":  "f9b67b60856695577d786bf527d5ae2bb45136e00b34dd2bab1abe13aef6be1e",
+                       "bytes":  1357267,
+                       "from":  4486,
+                       "to":  5226
                    },
                    {
                        "file":  "full_nasai_9.json",
-                       "sha256":  "c590c184014918c65e53a59e99a6e60aa61b5762e2b0372ad3bf21f3d6a529c4",
-                       "bytes":  558742,
-                       "from":  5304,
+                       "sha256":  "316420d0e924e042aa0625b7e6232c36586df3b34b6f96769602fc736fc6daec",
+                       "bytes":  694466,
+                       "from":  5227,
                        "to":  5662
                    }
                ],
-    "totalBytes":  11324897
+    "totalBytes":  11434076
 }

@@ -4,91 +4,92 @@
     "numbering":  "Open-Hadith-Data merged numbering",
     "total":  1594,
     "withTafseel":  1479,
+    "withSanad":  565,
     "shards":  [
                    {
                        "file":  "full_muwatta_1.json",
-                       "sha256":  "9c2f41686a4b9cfe216b21f9f738b1ddaba41edc40e830e497557990d73e2464",
-                       "bytes":  1092878,
+                       "sha256":  "9ae74fbf9df9484203e010546793c7bdf7f6b6523d553c9c082348df3c7ad10c",
+                       "bytes":  1093346,
                        "from":  1,
                        "to":  145
                    },
                    {
                        "file":  "full_muwatta_2.json",
-                       "sha256":  "bb190c9977b860d6cecc3b5e40fa573f27f0163506ab537671ac3439d6f9b3c9",
-                       "bytes":  1108869,
+                       "sha256":  "e024e39cd9ce494897aa9b85ccf1798e8e77ec5fc73139f87d7d61f5e038e3aa",
+                       "bytes":  1109633,
                        "from":  146,
                        "to":  327
                    },
                    {
                        "file":  "full_muwatta_3.json",
-                       "sha256":  "0feeb1897d08c851e90327e6c381f1bbb13b481917d98f76b00ddf12c02ea994",
-                       "bytes":  1118061,
+                       "sha256":  "aafdb0204e308dbc451426dda4a87d5d0bb8e9029dbc299ad1a4a858a5ec53f7",
+                       "bytes":  1118983,
                        "from":  328,
                        "to":  528
                    },
                    {
                        "file":  "full_muwatta_4.json",
-                       "sha256":  "09c9e062f751df85c716c1cf3355b2bc03d4e46cff95d4f17fbdcb4a881dc032",
-                       "bytes":  1106859,
+                       "sha256":  "415bc085d4e5386853005b8c9b18a24b0f23cab587e2826e256af7ae1d4ef2d2",
+                       "bytes":  1107501,
                        "from":  529,
                        "to":  716
                    },
                    {
                        "file":  "full_muwatta_5.json",
-                       "sha256":  "602f2acfcca1d6b545b1abd2def117c2347c83e7912cb4dd7cc7bd24837e55be",
-                       "bytes":  1105207,
+                       "sha256":  "3807d0ac26913a170bee610c4e546bd8bcbe0d515777c2722808295267a10996",
+                       "bytes":  1105788,
                        "from":  717,
                        "to":  884
                    },
                    {
                        "file":  "full_muwatta_6.json",
-                       "sha256":  "4c81c611c66bb281bf04873c259b06265fdc6c2c8c1bbeb2037f4fcdcf937b62",
-                       "bytes":  1081688,
+                       "sha256":  "d1dc1f8c5f798d3c62c1b822db102b1322025b5bda2ccfcfd66288fa882f3bb0",
+                       "bytes":  1082362,
                        "from":  885,
                        "to":  988
                    },
                    {
                        "file":  "full_muwatta_7.json",
-                       "sha256":  "ac9c1dcd1fb4e78c89b167626d842d0b579004ecc303bcc14543182d8fc542e6",
-                       "bytes":  1096000,
+                       "sha256":  "f1b62a05f38f27036bb4c0f98b9cb95cefcf4027f235c67db0809c2ab6900ddb",
+                       "bytes":  1096320,
                        "from":  989,
                        "to":  1106
                    },
                    {
                        "file":  "full_muwatta_8.json",
-                       "sha256":  "6da357153dbeecb9182cb513194be61c4e064b81efdc812e28640a4468284fdd",
-                       "bytes":  1072823,
+                       "sha256":  "b3ab293c5b76577c65f3e65e16103acc42ad886cdbdd429fae21c5e05a980241",
+                       "bytes":  1073615,
                        "from":  1107,
                        "to":  1193
                    },
                    {
                        "file":  "full_muwatta_9.json",
-                       "sha256":  "2573b437ad7604a8163c26ee8cbcb55521b4739b5cc781e59d11f6a789e52c7e",
-                       "bytes":  1051149,
+                       "sha256":  "fddb313a367893029fb3a95a5f72b9b6318b77ed43dafe0dc09dce58ce8a8da9",
+                       "bytes":  1051587,
                        "from":  1194,
                        "to":  1241
                    },
                    {
                        "file":  "full_muwatta_10.json",
-                       "sha256":  "83644362b65ede44fbb4f98e0a401ddf312572cbaffed050813ab53865ffb65b",
-                       "bytes":  1083333,
+                       "sha256":  "ada31a8fb6d0c0fe4e79853d8908d9fe35c9d0cf52cb3f125936c467e0cb331c",
+                       "bytes":  1083652,
                        "from":  1242,
                        "to":  1318
                    },
                    {
                        "file":  "full_muwatta_11.json",
-                       "sha256":  "d69014d5767dcc5bd66ea16ca4924dc7bbfa61043308b8b961af220f94b7e74d",
-                       "bytes":  1086288,
+                       "sha256":  "378961ca995c67ed4d4efa1c2a2d06b53aef8226e1b4aac2167744c0cf89e107",
+                       "bytes":  1087035,
                        "from":  1319,
                        "to":  1453
                    },
                    {
                        "file":  "full_muwatta_12.json",
-                       "sha256":  "8d1a52adce3514341ebd7792879c1ad2c53a693a98dc3b1fd58e2ef5af2e56ad",
-                       "bytes":  728759,
+                       "sha256":  "c9e0b7034fc5f457de150e8df27a81e148e39fd2b2d9d364e788e1b6407653d0",
+                       "bytes":  729796,
                        "from":  1454,
                        "to":  1594
                    }
                ],
-    "totalBytes":  12731914
+    "totalBytes":  12739618
 }

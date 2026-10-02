@@ -4,322 +4,330 @@
     "numbering":  "Open-Hadith-Data merged numbering",
     "total":  7008,
     "withTafseel":  6000,
+    "withSanad":  3026,
     "shards":  [
                    {
                        "file":  "full_bukhari_1.json",
-                       "sha256":  "14a20a916765c31fcec185ddabfd6ee6825ece8632ac2b235ba5680ed838483c",
-                       "bytes":  1084786,
+                       "sha256":  "b24c245cbecd03b16e01a2bc876f8b3c815ab069745f908d00320d1e07473d92",
+                       "bytes":  1079539,
                        "from":  1,
-                       "to":  64
+                       "to":  63
                    },
                    {
                        "file":  "full_bukhari_2.json",
-                       "sha256":  "8764c0febd2d9f2ffd19cae59c721cb7813a353e29fa48f3566ecb0415728f4b",
-                       "bytes":  1122155,
-                       "from":  65,
-                       "to":  208
+                       "sha256":  "e12529a0d0f428a7138a9a29a4041bfbe2634a582dd244fe18eb06af6813c38d",
+                       "bytes":  1120187,
+                       "from":  64,
+                       "to":  202
                    },
                    {
                        "file":  "full_bukhari_3.json",
-                       "sha256":  "31e0938a5a795152dafa47e10e4def29d2cfccbacf79686ae49f49d5b0ee19ca",
-                       "bytes":  1120141,
-                       "from":  209,
-                       "to":  357
+                       "sha256":  "9a35a3c1dabeb4054b97638ab68917e4726b10746aeeaf2dee10fc219b770605",
+                       "bytes":  1113389,
+                       "from":  203,
+                       "to":  347
                    },
                    {
                        "file":  "full_bukhari_4.json",
-                       "sha256":  "805aefecab9c4e298423027308c76f8e25f3d92e8f0956241ec0a39e241e3624",
-                       "bytes":  1135615,
-                       "from":  358,
-                       "to":  536
+                       "sha256":  "31e11024460aa83e46673a541c68efeb865bbce08c13b0d6e20ae8d2f1edbe0d",
+                       "bytes":  1134759,
+                       "from":  348,
+                       "to":  526
                    },
                    {
                        "file":  "full_bukhari_5.json",
-                       "sha256":  "da4fbfe49f2874b4d0b512d7cd00102fd3abbe69ff029a96a6674db03aeaea78",
-                       "bytes":  1119225,
-                       "from":  537,
-                       "to":  681
+                       "sha256":  "2039fae5afa6979ac616926e6db78703e6ba62de278cdacc4375f1d8c56ca030",
+                       "bytes":  1111271,
+                       "from":  527,
+                       "to":  660
                    },
                    {
                        "file":  "full_bukhari_6.json",
-                       "sha256":  "8fceb3acce46fa4f8843b0a02eff7f3c49fee1e32f2dc9b8de3bb46bbc53d50c",
-                       "bytes":  1100334,
-                       "from":  682,
-                       "to":  831
+                       "sha256":  "9a992f81aa17c274b4c006b510936dd3bb17dc6427874beaaf23bbcbd82203d2",
+                       "bytes":  1118354,
+                       "from":  661,
+                       "to":  828
                    },
                    {
                        "file":  "full_bukhari_7.json",
-                       "sha256":  "85e4eafd567a1b75ef4c5818c40bd1b662bc9067bb7b5a31152db8eca00ebaf2",
-                       "bytes":  1124808,
-                       "from":  832,
-                       "to":  987
+                       "sha256":  "8de6bca0af2eb81a2a9d435cef0d1c89e3b80c988fbf87d9d38f382b83079e9d",
+                       "bytes":  1114131,
+                       "from":  829,
+                       "to":  979
                    },
                    {
                        "file":  "full_bukhari_8.json",
-                       "sha256":  "07c768146b0382b960093c995cd8cf22a0af04d1dbd43b16f6a6bea3c96304c4",
-                       "bytes":  1147635,
-                       "from":  988,
-                       "to":  1169
+                       "sha256":  "32db40c2ded1c18ec0c2a00f019b48e74f33520f06a4d24429a2ec3d95325da3",
+                       "bytes":  1111897,
+                       "from":  980,
+                       "to":  1152
                    },
                    {
                        "file":  "full_bukhari_9.json",
-                       "sha256":  "e12e90b2eedd5c9653aabcba56c499a05a5cd373d196c479b03e27b7f326c1d3",
-                       "bytes":  1146027,
-                       "from":  1170,
-                       "to":  1342
+                       "sha256":  "b64c55c4d8eaa6ce29645de4021ec58ace0faa0a042cd8c9a42af125bb05f589",
+                       "bytes":  1135085,
+                       "from":  1153,
+                       "to":  1320
                    },
                    {
                        "file":  "full_bukhari_10.json",
-                       "sha256":  "ec832e1fa1f596f83d98fbfd080ccdb9bda3bd5f9ffc6646cb8d2774b5539436",
-                       "bytes":  1129908,
-                       "from":  1343,
-                       "to":  1512
+                       "sha256":  "1156b1280d0427f86016e0e0a37fd61ef10b1ba2f64fc803835a96dde2efbc7c",
+                       "bytes":  1124305,
+                       "from":  1321,
+                       "to":  1490
                    },
                    {
                        "file":  "full_bukhari_11.json",
-                       "sha256":  "f650d10c3db9e27ba17020f22535e8217f155b3e38a61701a638b1e1bbfcf14d",
-                       "bytes":  1116707,
-                       "from":  1513,
-                       "to":  1691
+                       "sha256":  "c1dbf1cdef55532649132210c3c04e573660cd0fc1a36dbff31ea46054f6c6bc",
+                       "bytes":  1138963,
+                       "from":  1491,
+                       "to":  1674
                    },
                    {
                        "file":  "full_bukhari_12.json",
-                       "sha256":  "47979ffc49695ff7482b3a2eb65e6c79154f222f5457cd828cfe2bb07f0dd8eb",
-                       "bytes":  1042613,
-                       "from":  1692,
-                       "to":  1799
+                       "sha256":  "304e0eeb4d60b9158d9834773a0fac0a5536c748edf0fca0b88214f61639b88c",
+                       "bytes":  1078954,
+                       "from":  1675,
+                       "to":  1790
                    },
                    {
                        "file":  "full_bukhari_13.json",
-                       "sha256":  "4031b26b9b4a5c6180e8fcbe14232ccb43d0a9d2128626721773d9bb54e07ce5",
-                       "bytes":  1112681,
-                       "from":  1800,
-                       "to":  1968
+                       "sha256":  "78232266a807635b1eaa0ff7bf78e490ae630ffc6a6c42bcccb797a5f04130db",
+                       "bytes":  1118243,
+                       "from":  1791,
+                       "to":  1933
                    },
                    {
                        "file":  "full_bukhari_14.json",
-                       "sha256":  "3b9974857eaeeba06ab89d93ccd2bd27d2494cbb14adf3a6399893b85c98e63f",
-                       "bytes":  1161145,
-                       "from":  1969,
-                       "to":  2196
+                       "sha256":  "d66af9650146b0bf4b40ab8f94d2bfb57babb9a34b1dd825125331eaf38206a2",
+                       "bytes":  1175863,
+                       "from":  1934,
+                       "to":  2179
                    },
                    {
                        "file":  "full_bukhari_15.json",
-                       "sha256":  "007c025e2828aeac72720b90c21ba1465b5a709fef2caa6e72e58f5a926fc3b0",
-                       "bytes":  1169115,
-                       "from":  2197,
-                       "to":  2420
+                       "sha256":  "185006a2264596019ef986f69556a30a8ab85b2ca34788459bf57c1e5f62b5e5",
+                       "bytes":  1145281,
+                       "from":  2180,
+                       "to":  2392
                    },
                    {
                        "file":  "full_bukhari_16.json",
-                       "sha256":  "69c7cf1ebb7e389cdd359739d2a4447692879757ace39084b88a2c4dd485b95f",
-                       "bytes":  1138111,
-                       "from":  2421,
-                       "to":  2571
+                       "sha256":  "570049c28ae1d4a122605e41faa8c567ce71a44c1dcd45f0af7f26428a70f766",
+                       "bytes":  1167508,
+                       "from":  2393,
+                       "to":  2550
                    },
                    {
                        "file":  "full_bukhari_17.json",
-                       "sha256":  "cc6f250339781356ccf840fe0f43f023c18133a8a7f33a32a450ee5ad795d845",
-                       "bytes":  1192421,
-                       "from":  2572,
-                       "to":  2829
+                       "sha256":  "35e2e413219ca35b67d0ec1b9cedaa30e6895ed44be7359fdff605d3775910af",
+                       "bytes":  1175455,
+                       "from":  2551,
+                       "to":  2794
                    },
                    {
                        "file":  "full_bukhari_18.json",
-                       "sha256":  "9c03f3161f6f079b4790aa84b2880833db1237662bdd618348f0a04cabb16635",
-                       "bytes":  1181694,
-                       "from":  2830,
-                       "to":  3053
+                       "sha256":  "64df86bc508dc4df1409ff8f094db2d8ea69e2b217acac7ed91a3f0d62f60fc6",
+                       "bytes":  1188922,
+                       "from":  2795,
+                       "to":  3005
                    },
                    {
                        "file":  "full_bukhari_19.json",
-                       "sha256":  "a2761064c92ca6f5a10f6ef482ce612ba11cccfc2f69bf5d5d23a10c4b31729b",
-                       "bytes":  1170867,
-                       "from":  3054,
-                       "to":  3233
+                       "sha256":  "0566acf10a28a789b20e2f230711990e2356613d9b19cd25c6c6448fa3d2452d",
+                       "bytes":  1146927,
+                       "from":  3006,
+                       "to":  3205
                    },
                    {
                        "file":  "full_bukhari_20.json",
-                       "sha256":  "2f479e6b860464dc84e2b89e70b6189db19e6010b0e0b4a91c1a242508b28378",
-                       "bytes":  1153153,
-                       "from":  3234,
-                       "to":  3401
+                       "sha256":  "f111b52a3c7597bced52ab0abf920147bab774c37cc2f6da7dd869a4ed142202",
+                       "bytes":  1152882,
+                       "from":  3206,
+                       "to":  3386
                    },
                    {
                        "file":  "full_bukhari_21.json",
-                       "sha256":  "6219756bb50c89d9d77b3c55734a0ac6aca17fdd238e97f5ed704664c01ed9d9",
-                       "bytes":  1160655,
-                       "from":  3402,
-                       "to":  3595
+                       "sha256":  "8d2eb28990186257f32d372f3d1a3cc9a9a624cbd4252df940f2d32ae4fe60a0",
+                       "bytes":  1157870,
+                       "from":  3387,
+                       "to":  3565
                    },
                    {
                        "file":  "full_bukhari_22.json",
-                       "sha256":  "9ed586d4ae0f8e1712576ccfd1ae243130b7452f90c2d9b170d846d622fef689",
-                       "bytes":  1163755,
-                       "from":  3596,
-                       "to":  3733
+                       "sha256":  "5415ff9699b8115a4bc6196ec4b847bb9fb2688145ad8e9c1d5434bcb4c2c1e0",
+                       "bytes":  1151220,
+                       "from":  3566,
+                       "to":  3695
                    },
                    {
                        "file":  "full_bukhari_23.json",
-                       "sha256":  "1b60b00a09e7f020383ef3c2170127119a8dbaba6d6391aef6f029973a3fc844",
-                       "bytes":  1174002,
-                       "from":  3734,
-                       "to":  3905
+                       "sha256":  "4a32f50e9c1c56a705b595e31e2ff3b434d89a153cef6cc0b934a213ad9ff415",
+                       "bytes":  1175861,
+                       "from":  3696,
+                       "to":  3872
                    },
                    {
                        "file":  "full_bukhari_24.json",
-                       "sha256":  "767a6e4c123f006411bf857a52d50e43f109f8bf6b099a35b34f4a7d24d65e12",
-                       "bytes":  1093955,
-                       "from":  3906,
-                       "to":  4065
+                       "sha256":  "d5810dbeb3be6b8613357b27d8dffafbcf9a53f1409d42ef44d8b216724dae9c",
+                       "bytes":  1150401,
+                       "from":  3873,
+                       "to":  4024
                    },
                    {
                        "file":  "full_bukhari_25.json",
-                       "sha256":  "0269bf45526eae9155e10a9135431d64beda1dbcb35d4355f665ecbffb629d1c",
-                       "bytes":  1184038,
-                       "from":  4066,
-                       "to":  4271
+                       "sha256":  "347198bc9d82944bfc7dd3f55606a9342f030d037b9275bd09eb106dfdf1610f",
+                       "bytes":  1186109,
+                       "from":  4025,
+                       "to":  4226
                    },
                    {
                        "file":  "full_bukhari_26.json",
-                       "sha256":  "f844f63f39da8712db139e93e267ea3b9c807e077712b88e1ece5e8636ac6fde",
-                       "bytes":  1157840,
-                       "from":  4272,
-                       "to":  4398
+                       "sha256":  "b7d8a4f28e2da9bfc8b1c43253b6f3901fbb25b02e39fcf50615660b8fc8a5e5",
+                       "bytes":  980653,
+                       "from":  4227,
+                       "to":  4380
                    },
                    {
                        "file":  "full_bukhari_27.json",
-                       "sha256":  "fee8fd4b657d6aaaac43d6b6fa16305d64fb7e686439097ffc1a4718899f3581",
-                       "bytes":  1152234,
-                       "from":  4399,
-                       "to":  4587
+                       "sha256":  "9335b6ff240760f3e623a8766f48f3220cb1bdc2ad4eda9f7c367bccbab9773f",
+                       "bytes":  1148701,
+                       "from":  4381,
+                       "to":  4528
                    },
                    {
                        "file":  "full_bukhari_28.json",
-                       "sha256":  "6ddd13feec2ad2f5f6fbbb76b6da2b76453248b0043a1ff55818957bc689bbf2",
-                       "bytes":  1116551,
-                       "from":  4588,
-                       "to":  4710
+                       "sha256":  "debea41192146e2fca8a6cabaebbefe6d571e06e3d02c50aa182d400d2f99d94",
+                       "bytes":  1122270,
+                       "from":  4529,
+                       "to":  4650
                    },
                    {
                        "file":  "full_bukhari_29.json",
-                       "sha256":  "34d67e0d3a5ed26e1bf7e9230ab83bc3cc751ac19e6e56df2a3e8a661b49290f",
-                       "bytes":  1094316,
-                       "from":  4711,
-                       "to":  4822
+                       "sha256":  "ec7f40773afa53f2d46abe7877b38744f1fb7709cb7b16d14613a77dc72eb18e",
+                       "bytes":  1118330,
+                       "from":  4651,
+                       "to":  4785
                    },
                    {
                        "file":  "full_bukhari_30.json",
-                       "sha256":  "fb3febb4678e1a9574364ae2d2a32dc40231a15de03a83c7b0b2d2c48cb511ee",
-                       "bytes":  1108286,
-                       "from":  4823,
-                       "to":  4938
+                       "sha256":  "20d62cb32d7d05c15bdfb6ce0ae01b60540e4cf357f7d8fc16184a458e7cee72",
+                       "bytes":  1118184,
+                       "from":  4786,
+                       "to":  4897
                    },
                    {
                        "file":  "full_bukhari_31.json",
-                       "sha256":  "3d8cbe5f08b5633d048414b102269e6267c14b25cffdafa17e85e8e777db7d2a",
-                       "bytes":  1140960,
-                       "from":  4939,
-                       "to":  5120
+                       "sha256":  "2eee9d73df37bbe86469f8581b1f6c66fc41e91a0426e466d09ed5005eb72b77",
+                       "bytes":  1133887,
+                       "from":  4898,
+                       "to":  5062
                    },
                    {
                        "file":  "full_bukhari_32.json",
-                       "sha256":  "05c8f4688f0dad6588a66ed5954f35ed7949348662f862041615ddc4e546483f",
-                       "bytes":  1107427,
-                       "from":  5121,
-                       "to":  5276
+                       "sha256":  "9621b7bcc562e972c5b603ebed395377e891da8961e68b9e169944b7e2ca8efd",
+                       "bytes":  1109661,
+                       "from":  5063,
+                       "to":  5212
                    },
                    {
                        "file":  "full_bukhari_33.json",
-                       "sha256":  "7d6e1ad586756af2ea09319485a07b3111b4caf68f5912fd233e8a293530a304",
-                       "bytes":  1127971,
-                       "from":  5277,
-                       "to":  5428
+                       "sha256":  "b2562ebaf9f8223fdc0c4f3b67591f12e03e46fe2ca99ae49e4e8606538029e6",
+                       "bytes":  1120223,
+                       "from":  5213,
+                       "to":  5359
                    },
                    {
                        "file":  "full_bukhari_34.json",
-                       "sha256":  "efc209d122e26dbe807d31df26426021c89433d2700121193827aadaa9d4d522",
-                       "bytes":  1117738,
-                       "from":  5429,
-                       "to":  5596
+                       "sha256":  "dc0925759d265f3a66a0d6b5c0d728299b32ac0e8a137f70d04fd24f66fd8429",
+                       "bytes":  1116246,
+                       "from":  5360,
+                       "to":  5530
                    },
                    {
                        "file":  "full_bukhari_35.json",
-                       "sha256":  "55a45108946a8e301e9310b135e805f002c200186b2e5bc9b8a30692d70f9866",
-                       "bytes":  1119383,
-                       "from":  5597,
-                       "to":  5775
+                       "sha256":  "d080cc22f29e8b1e1e79695b62ff620886129eb8669930f0c463c874560d57f3",
+                       "bytes":  1140495,
+                       "from":  5531,
+                       "to":  5717
                    },
                    {
                        "file":  "full_bukhari_36.json",
-                       "sha256":  "00a84e99b8e8951db6020010f56ece18d37cb6ced61d2ae5a4fd17ddb597c5f2",
-                       "bytes":  1116926,
-                       "from":  5776,
-                       "to":  5899
+                       "sha256":  "c649af22e4d43bdfd6f59fef79c412fc1254b460f9ecd3da852fa23e826c1b4d",
+                       "bytes":  1110840,
+                       "from":  5718,
+                       "to":  5844
                    },
                    {
                        "file":  "full_bukhari_37.json",
-                       "sha256":  "7065a278e51db5faba09c6e2797dda817128d2e18efed235ca18a43f7b398148",
-                       "bytes":  1107696,
-                       "from":  5900,
-                       "to":  6014
+                       "sha256":  "285950d04889b326aa53953f3012ec41b97572444953da9150b03d5627bcd887",
+                       "bytes":  1114338,
+                       "from":  5845,
+                       "to":  5970
                    },
                    {
                        "file":  "full_bukhari_38.json",
-                       "sha256":  "90c020f7ba10e8f31976105dc19b1b3fdeae21c88fd7769e670c124e59f29cc5",
-                       "bytes":  932886,
-                       "from":  6015,
-                       "to":  6087
+                       "sha256":  "d71b13f470d71bd7e1299f2acf3bcea5128f404cc859d83e4aa4ee72a794cae1",
+                       "bytes":  1093120,
+                       "from":  5971,
+                       "to":  6062
                    },
                    {
                        "file":  "full_bukhari_39.json",
-                       "sha256":  "f99596c2e2094ccab9ded074ad90eedaaec7957aa7dfc111b72402e00650b9da",
-                       "bytes":  1121408,
-                       "from":  6088,
-                       "to":  6234
+                       "sha256":  "fcb53d2d3d0e2f132ed5d8b5328f89ab200a948ba227a35bb362279a5e62e08f",
+                       "bytes":  1121895,
+                       "from":  6063,
+                       "to":  6200
                    },
                    {
                        "file":  "full_bukhari_40.json",
-                       "sha256":  "176b824abac5d7c44e9480923a725e3d577034cab8e0e461e05f558501c76eb6",
-                       "bytes":  1094194,
-                       "from":  6235,
-                       "to":  6335
+                       "sha256":  "d01ee0856c5509371dea493ed1dcd9d0b450eea4063d73e1d1c7a45186e572e5",
+                       "bytes":  1099072,
+                       "from":  6201,
+                       "to":  6322
                    },
                    {
                        "file":  "full_bukhari_41.json",
-                       "sha256":  "6d378f34e4929b71a47326257fa8db4687a0f6ae780fa767403a0ad02fcd21fa",
-                       "bytes":  1100929,
-                       "from":  6336,
-                       "to":  6438
+                       "sha256":  "8481f44b066858ba3a16fa5eb6fa4d586c67ea37815753a30d2f8004c8c3ede1",
+                       "bytes":  1107697,
+                       "from":  6323,
+                       "to":  6415
                    },
                    {
                        "file":  "full_bukhari_42.json",
-                       "sha256":  "2d633ceaf34f6d5836e3a20881d614fb914ea8fdd0b369e8ec6f39139cb1325a",
-                       "bytes":  1114895,
-                       "from":  6439,
-                       "to":  6558
+                       "sha256":  "4e8b888e7c8b11e83f113868f49cd990b836228fa4f09a2f6d2d7398d22c6295",
+                       "bytes":  1064280,
+                       "from":  6416,
+                       "to":  6524
                    },
                    {
                        "file":  "full_bukhari_43.json",
-                       "sha256":  "247b7a03b407a94c4f3e6d892144de7d55f604615d78df48356e3628823a7748",
-                       "bytes":  1115176,
-                       "from":  6559,
-                       "to":  6669
+                       "sha256":  "b541bb06b9ee5b4620f21883f586c463d9b5dcf51a7c4ea85797176887a4b1d0",
+                       "bytes":  1095279,
+                       "from":  6525,
+                       "to":  6624
                    },
                    {
                        "file":  "full_bukhari_44.json",
-                       "sha256":  "f04ce3e43869903763ae5f616ae64b8057b649f2286b4ad66e3b91dde6b3c30f",
-                       "bytes":  1139970,
-                       "from":  6670,
-                       "to":  6840
+                       "sha256":  "e2c25eb32bebb0f424c93c1df3130fef1944f8af240c9e0f7d4ceb3ae9da582b",
+                       "bytes":  1148543,
+                       "from":  6625,
+                       "to":  6797
                    },
                    {
                        "file":  "full_bukhari_45.json",
-                       "sha256":  "30ed4f6218026bb00421b34178fd6c34a08696e28264235d2d05c2de444e7525",
-                       "bytes":  976845,
-                       "from":  6841,
+                       "sha256":  "df18e1ad2885854de47055029404c0d6c3d0db2314055f1b36f4a573447b4820",
+                       "bytes":  1168039,
+                       "from":  6798,
+                       "to":  6977
+                   },
+                   {
+                       "file":  "full_bukhari_46.json",
+                       "sha256":  "3a53c3b9909253a2a0cb182b49ef8d58103ca9551369b6ad18539c7394663888",
+                       "bytes":  171416,
+                       "from":  6978,
                        "to":  7008
                    }
                ],
-    "totalBytes":  50509177
+    "totalBytes":  50876545
 }

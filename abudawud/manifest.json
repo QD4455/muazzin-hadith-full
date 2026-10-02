@@ -4,161 +4,169 @@
     "numbering":  "Open-Hadith-Data merged numbering",
     "total":  4590,
     "withTafseel":  4533,
+    "withSanad":  2208,
     "shards":  [
                    {
                        "file":  "full_abudawud_1.json",
-                       "sha256":  "eefe9f74a923a1f6e35b49571590696ee9f1ae9477b2138d804b8ce65c70413f",
-                       "bytes":  1119122,
+                       "sha256":  "04c49ce377ea272b3f59b2a7612541f6e3b95c323e141bee6c6f6d63c5ca79e2",
+                       "bytes":  1124217,
                        "from":  1,
-                       "to":  169
+                       "to":  164
                    },
                    {
                        "file":  "full_abudawud_2.json",
-                       "sha256":  "e676391668e6a92bc7fc4c6e5cd627c9b93da84537a3eec584e40a35012903d2",
-                       "bytes":  1158916,
-                       "from":  170,
-                       "to":  339
+                       "sha256":  "d2a1cd6a94af43a35ad3a3bf178b76f67c3a524e9e40c0671d0003dc985c6cb0",
+                       "bytes":  1132632,
+                       "from":  165,
+                       "to":  332
                    },
                    {
                        "file":  "full_abudawud_3.json",
-                       "sha256":  "d57a001f673a237fd05f2d23a82d85648cab6faabcccd795acb2fae6942ae612",
-                       "bytes":  1158863,
-                       "from":  340,
-                       "to":  529
+                       "sha256":  "98f046ac00bcf8c76879e3e65d100e808e9c5cccf894b871645f16469f2c13d5",
+                       "bytes":  1148759,
+                       "from":  333,
+                       "to":  507
                    },
                    {
                        "file":  "full_abudawud_4.json",
-                       "sha256":  "0020b68d3317f2ab451351c6954fb76e0eb94950a37de48545d61f73bb632eef",
-                       "bytes":  1168018,
-                       "from":  530,
-                       "to":  738
+                       "sha256":  "a8fe15245a9ea816406a62502642a54c995de92faa28da7f0cba872530650011",
+                       "bytes":  1156691,
+                       "from":  508,
+                       "to":  722
                    },
                    {
                        "file":  "full_abudawud_5.json",
-                       "sha256":  "8c12a7406fa806344c89f4d2265c8d486b3d392cc028d3b8dcfc93a607700acc",
-                       "bytes":  1138687,
-                       "from":  739,
-                       "to":  891
+                       "sha256":  "96c45e744a612de4e46ae2db6ca1c20d599c75944c7b0d7edeb890ff39ed26ca",
+                       "bytes":  1136748,
+                       "from":  723,
+                       "to":  871
                    },
                    {
                        "file":  "full_abudawud_6.json",
-                       "sha256":  "e5f3224af93d486e542d9fcf13e6d3c4a34304d75e1976d1f22bd06e4d281ec6",
-                       "bytes":  1155927,
-                       "from":  892,
-                       "to":  1091
+                       "sha256":  "ac1fab8ca95b605b83a3447ad3d847b083220c933414f63eabd32514b66616e8",
+                       "bytes":  1137331,
+                       "from":  872,
+                       "to":  1053
                    },
                    {
                        "file":  "full_abudawud_7.json",
-                       "sha256":  "3e29cac96952b8befb3f371223717689d378c515a186c290b00ed671913c5ce4",
-                       "bytes":  1167233,
-                       "from":  1092,
-                       "to":  1338
+                       "sha256":  "84031fc08e130deca841941244408629a67fc0b97eed423bc467b5a48ce8be51",
+                       "bytes":  1177895,
+                       "from":  1054,
+                       "to":  1304
                    },
                    {
                        "file":  "full_abudawud_8.json",
-                       "sha256":  "7f898199fcefc54de23c72b07fa689a5745e17c61be89c83bd381d5a5186dcd2",
-                       "bytes":  1169281,
-                       "from":  1339,
-                       "to":  1529
+                       "sha256":  "f4d6dbaee947f369e81b8316154a189ab6c2922b747edfb335c0e3f50eddca6a",
+                       "bytes":  1150711,
+                       "from":  1305,
+                       "to":  1473
                    },
                    {
                        "file":  "full_abudawud_9.json",
-                       "sha256":  "8d022c76991d83ce60dfdb2f1f1f269be4c2a5c8552481113f650d5c87af43eb",
-                       "bytes":  1152095,
-                       "from":  1530,
-                       "to":  1744
+                       "sha256":  "ae61c980df9c8d28b5ca273de682e5c7e8b56a2e676213ba66e461c4d9e9d583",
+                       "bytes":  1165704,
+                       "from":  1474,
+                       "to":  1698
                    },
                    {
                        "file":  "full_abudawud_10.json",
-                       "sha256":  "4b47629b11da42c6fd1e467515ef402b9341cd6ed05a4979d3977609407f0667",
-                       "bytes":  1166137,
-                       "from":  1745,
-                       "to":  1932
+                       "sha256":  "e93714c43e33dc691f56632d06509d5ff7ceb7bdff4a6e1350ab60d860d89ccd",
+                       "bytes":  1140982,
+                       "from":  1699,
+                       "to":  1882
                    },
                    {
                        "file":  "full_abudawud_11.json",
-                       "sha256":  "adf6a8c20173d8b76e52b896f1dcc6645522864780d2b20dd8521c4f86faa5f3",
-                       "bytes":  1188577,
-                       "from":  1933,
-                       "to":  2192
+                       "sha256":  "d308f35fe1e91ccde9ffbfaa91232588163ec3171091886c6dc4faa34e9754e3",
+                       "bytes":  1172263,
+                       "from":  1883,
+                       "to":  2108
                    },
                    {
                        "file":  "full_abudawud_12.json",
-                       "sha256":  "fd2b2095552b4c265c694a7bba6f803937b2bbb50bb3ccd1c8f37bb21a335ab1",
-                       "bytes":  1190106,
-                       "from":  2193,
-                       "to":  2447
+                       "sha256":  "0ea60c9a9394d65846d4ff3fe2bfe6036b7a589d38f651c64d88c6d8c258affc",
+                       "bytes":  1189402,
+                       "from":  2109,
+                       "to":  2381
                    },
                    {
                        "file":  "full_abudawud_13.json",
-                       "sha256":  "c04a3b90447a5fd8ef338636336ce1db27c7fa33675eb1392516b7f1224384e0",
-                       "bytes":  1186765,
-                       "from":  2448,
-                       "to":  2674
+                       "sha256":  "84a4fcf523dc571d9b3cce7cb37b1f3597038665fe2009aa542b8cdc1b96e5c0",
+                       "bytes":  1163753,
+                       "from":  2382,
+                       "to":  2609
                    },
                    {
                        "file":  "full_abudawud_14.json",
-                       "sha256":  "5bad99836249cc40962e95c19250989909e1ac40ab42a51a85933c5d48daa4dd",
-                       "bytes":  1129562,
-                       "from":  2675,
-                       "to":  2857
+                       "sha256":  "05d45c43303b9e90fb8fdb5e5d4d5aa3dfecf8e0de7ba674b4960e05c6a06ef7",
+                       "bytes":  1143178,
+                       "from":  2610,
+                       "to":  2788
                    },
                    {
                        "file":  "full_abudawud_15.json",
-                       "sha256":  "4c451ba3fc6f2c5fb8b68feeff08f898f666b715740bd79ba73114dd4c3f7434",
-                       "bytes":  1161006,
-                       "from":  2858,
-                       "to":  3088
+                       "sha256":  "bb0381bf4c575ed17bbb01345d3cb440bdf5816b6905a8a6ae3d3489d98ecd7e",
+                       "bytes":  1146851,
+                       "from":  2789,
+                       "to":  2991
                    },
                    {
                        "file":  "full_abudawud_16.json",
-                       "sha256":  "96b70f2c8cd9d65647f656ee85b28feafb24e221f3d5b20561dbe9f4f798733a",
-                       "bytes":  1144302,
-                       "from":  3089,
-                       "to":  3294
+                       "sha256":  "a245086e116f521070f2898845030dd98d80600ed18af3238caa76a7be430c18",
+                       "bytes":  1094933,
+                       "from":  2992,
+                       "to":  3200
                    },
                    {
                        "file":  "full_abudawud_17.json",
-                       "sha256":  "676aea32732b340eac1a306fc2bfbb829f6ab64cb3434223d37fb48bbb5d15dd",
-                       "bytes":  1138523,
-                       "from":  3295,
-                       "to":  3508
+                       "sha256":  "081db5f60e99a2d476d7318dd6f65d1dbe0c7aaf70d197448af07d5bb4e4c4fd",
+                       "bytes":  1130761,
+                       "from":  3201,
+                       "to":  3424
                    },
                    {
                        "file":  "full_abudawud_18.json",
-                       "sha256":  "af3df29fc2d62467b02a348818e34b768b80109d48683f488bd4370bac05f5e7",
-                       "bytes":  1141767,
-                       "from":  3509,
-                       "to":  3730
+                       "sha256":  "c1c6e6eb3475997d35e0a0b13aff12ecb11b2363065b767ffbda15752fb0c7f3",
+                       "bytes":  1136049,
+                       "from":  3425,
+                       "to":  3627
                    },
                    {
                        "file":  "full_abudawud_19.json",
-                       "sha256":  "690445041ed51a333210ec5ae5541ae4e83224c4fa3f0884e90f475caef741a4",
-                       "bytes":  1140763,
-                       "from":  3731,
-                       "to":  3855
+                       "sha256":  "3e87743adbdfb27c8dfeb60ce1e6a04caa3787746e0b3b31b346ad8dba7f35db",
+                       "bytes":  1125696,
+                       "from":  3628,
+                       "to":  3775
                    },
                    {
                        "file":  "full_abudawud_20.json",
-                       "sha256":  "03dcff525941c1836bb83dcd38041c1b03e2e1e725ac9e24827cd7c997bb27cf",
-                       "bytes":  1179506,
-                       "from":  3856,
-                       "to":  4062
+                       "sha256":  "78200395d269afccadcca0f047264ca6590f905e07895ae1adbc4a8349182eff",
+                       "bytes":  1150436,
+                       "from":  3776,
+                       "to":  3923
                    },
                    {
                        "file":  "full_abudawud_21.json",
-                       "sha256":  "1696a8967e2a4a63fb78775fff179a9953b9777974bf6ba1b6690a5c77c114ab",
-                       "bytes":  1175878,
-                       "from":  4063,
-                       "to":  4323
+                       "sha256":  "b401b073f212d64d90661b2e4c27928487b6e05b631a1f63797b9913384e6655",
+                       "bytes":  1166375,
+                       "from":  3924,
+                       "to":  4143
                    },
                    {
                        "file":  "full_abudawud_22.json",
-                       "sha256":  "9e2a0af3e42b981b08e3bd408b32e495e18409376caa180e83dad5e4b3c9ebc3",
-                       "bytes":  1168063,
-                       "from":  4324,
+                       "sha256":  "7be813b6eb5c88c24566e67c72e020d2fbc02f171c4b1d904af3d96f5c84c264",
+                       "bytes":  1173500,
+                       "from":  4144,
+                       "to":  4423
+                   },
+                   {
+                       "file":  "full_abudawud_23.json",
+                       "sha256":  "414dcccc1d282637c6296d724f8d29fc4f04f80bca27128fd736e94a535cfd62",
+                       "bytes":  751906,
+                       "from":  4424,
                        "to":  4590
                    }
                ],
-    "totalBytes":  25499097
+    "totalBytes":  26016773
 }
