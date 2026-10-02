@@ -1,0 +1,164 @@
+﻿{
+    "book":  "abudawud",
+    "title":  "سنن أبي داود",
+    "numbering":  "Open-Hadith-Data merged numbering",
+    "total":  4590,
+    "withTafseel":  4533,
+    "shards":  [
+                   {
+                       "file":  "full_abudawud_1.json",
+                       "sha256":  "eefe9f74a923a1f6e35b49571590696ee9f1ae9477b2138d804b8ce65c70413f",
+                       "bytes":  1119122,
+                       "from":  1,
+                       "to":  169
+                   },
+                   {
+                       "file":  "full_abudawud_2.json",
+                       "sha256":  "e676391668e6a92bc7fc4c6e5cd627c9b93da84537a3eec584e40a35012903d2",
+                       "bytes":  1158916,
+                       "from":  170,
+                       "to":  339
+                   },
+                   {
+                       "file":  "full_abudawud_3.json",
+                       "sha256":  "d57a001f673a237fd05f2d23a82d85648cab6faabcccd795acb2fae6942ae612",
+                       "bytes":  1158863,
+                       "from":  340,
+                       "to":  529
+                   },
+                   {
+                       "file":  "full_abudawud_4.json",
+                       "sha256":  "0020b68d3317f2ab451351c6954fb76e0eb94950a37de48545d61f73bb632eef",
+                       "bytes":  1168018,
+                       "from":  530,
+                       "to":  738
+                   },
+                   {
+                       "file":  "full_abudawud_5.json",
+                       "sha256":  "8c12a7406fa806344c89f4d2265c8d486b3d392cc028d3b8dcfc93a607700acc",
+                       "bytes":  1138687,
+                       "from":  739,
+                       "to":  891
+                   },
+                   {
+                       "file":  "full_abudawud_6.json",
+                       "sha256":  "e5f3224af93d486e542d9fcf13e6d3c4a34304d75e1976d1f22bd06e4d281ec6",
+                       "bytes":  1155927,
+                       "from":  892,
+                       "to":  1091
+                   },
+                   {
+                       "file":  "full_abudawud_7.json",
+                       "sha256":  "3e29cac96952b8befb3f371223717689d378c515a186c290b00ed671913c5ce4",
+                       "bytes":  1167233,
+                       "from":  1092,
+                       "to":  1338
+                   },
+                   {
+                       "file":  "full_abudawud_8.json",
+                       "sha256":  "7f898199fcefc54de23c72b07fa689a5745e17c61be89c83bd381d5a5186dcd2",
+                       "bytes":  1169281,
+                       "from":  1339,
+                       "to":  1529
+                   },
+                   {
+                       "file":  "full_abudawud_9.json",
+                       "sha256":  "8d022c76991d83ce60dfdb2f1f1f269be4c2a5c8552481113f650d5c87af43eb",
+                       "bytes":  1152095,
+                       "from":  1530,
+                       "to":  1744
+                   },
+                   {
+                       "file":  "full_abudawud_10.json",
+                       "sha256":  "4b47629b11da42c6fd1e467515ef402b9341cd6ed05a4979d3977609407f0667",
+                       "bytes":  1166137,
+                       "from":  1745,
+                       "to":  1932
+                   },
+                   {
+                       "file":  "full_abudawud_11.json",
+                       "sha256":  "adf6a8c20173d8b76e52b896f1dcc6645522864780d2b20dd8521c4f86faa5f3",
+                       "bytes":  1188577,
+                       "from":  1933,
+                       "to":  2192
+                   },
+                   {
+                       "file":  "full_abudawud_12.json",
+                       "sha256":  "fd2b2095552b4c265c694a7bba6f803937b2bbb50bb3ccd1c8f37bb21a335ab1",
+                       "bytes":  1190106,
+                       "from":  2193,
+                       "to":  2447
+                   },
+                   {
+                       "file":  "full_abudawud_13.json",
+                       "sha256":  "c04a3b90447a5fd8ef338636336ce1db27c7fa33675eb1392516b7f1224384e0",
+                       "bytes":  1186765,
+                       "from":  2448,
+                       "to":  2674
+                   },
+                   {
+                       "file":  "full_abudawud_14.json",
+                       "sha256":  "5bad99836249cc40962e95c19250989909e1ac40ab42a51a85933c5d48daa4dd",
+                       "bytes":  1129562,
+                       "from":  2675,
+                       "to":  2857
+                   },
+                   {
+                       "file":  "full_abudawud_15.json",
+                       "sha256":  "4c451ba3fc6f2c5fb8b68feeff08f898f666b715740bd79ba73114dd4c3f7434",
+                       "bytes":  1161006,
+                       "from":  2858,
+                       "to":  3088
+                   },
+                   {
+                       "file":  "full_abudawud_16.json",
+                       "sha256":  "96b70f2c8cd9d65647f656ee85b28feafb24e221f3d5b20561dbe9f4f798733a",
+                       "bytes":  1144302,
+                       "from":  3089,
+                       "to":  3294
+                   },
+                   {
+                       "file":  "full_abudawud_17.json",
+                       "sha256":  "676aea32732b340eac1a306fc2bfbb829f6ab64cb3434223d37fb48bbb5d15dd",
+                       "bytes":  1138523,
+                       "from":  3295,
+                       "to":  3508
+                   },
+                   {
+                       "file":  "full_abudawud_18.json",
+                       "sha256":  "af3df29fc2d62467b02a348818e34b768b80109d48683f488bd4370bac05f5e7",
+                       "bytes":  1141767,
+                       "from":  3509,
+                       "to":  3730
+                   },
+                   {
+                       "file":  "full_abudawud_19.json",
+                       "sha256":  "690445041ed51a333210ec5ae5541ae4e83224c4fa3f0884e90f475caef741a4",
+                       "bytes":  1140763,
+                       "from":  3731,
+                       "to":  3855
+                   },
+                   {
+                       "file":  "full_abudawud_20.json",
+                       "sha256":  "03dcff525941c1836bb83dcd38041c1b03e2e1e725ac9e24827cd7c997bb27cf",
+                       "bytes":  1179506,
+                       "from":  3856,
+                       "to":  4062
+                   },
+                   {
+                       "file":  "full_abudawud_21.json",
+                       "sha256":  "1696a8967e2a4a63fb78775fff179a9953b9777974bf6ba1b6690a5c77c114ab",
+                       "bytes":  1175878,
+                       "from":  4063,
+                       "to":  4323
+                   },
+                   {
+                       "file":  "full_abudawud_22.json",
+                       "sha256":  "9e2a0af3e42b981b08e3bd408b32e495e18409376caa180e83dad5e4b3c9ebc3",
+                       "bytes":  1168063,
+                       "from":  4324,
+                       "to":  4590
+                   }
+               ],
+    "totalBytes":  25499097
+}

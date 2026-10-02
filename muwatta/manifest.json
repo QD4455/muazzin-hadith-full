@@ -1,0 +1,94 @@
+﻿{
+    "book":  "muwatta",
+    "title":  "موطأ مالك",
+    "numbering":  "Open-Hadith-Data merged numbering",
+    "total":  1594,
+    "withTafseel":  1479,
+    "shards":  [
+                   {
+                       "file":  "full_muwatta_1.json",
+                       "sha256":  "9c2f41686a4b9cfe216b21f9f738b1ddaba41edc40e830e497557990d73e2464",
+                       "bytes":  1092878,
+                       "from":  1,
+                       "to":  145
+                   },
+                   {
+                       "file":  "full_muwatta_2.json",
+                       "sha256":  "bb190c9977b860d6cecc3b5e40fa573f27f0163506ab537671ac3439d6f9b3c9",
+                       "bytes":  1108869,
+                       "from":  146,
+                       "to":  327
+                   },
+                   {
+                       "file":  "full_muwatta_3.json",
+                       "sha256":  "0feeb1897d08c851e90327e6c381f1bbb13b481917d98f76b00ddf12c02ea994",
+                       "bytes":  1118061,
+                       "from":  328,
+                       "to":  528
+                   },
+                   {
+                       "file":  "full_muwatta_4.json",
+                       "sha256":  "09c9e062f751df85c716c1cf3355b2bc03d4e46cff95d4f17fbdcb4a881dc032",
+                       "bytes":  1106859,
+                       "from":  529,
+                       "to":  716
+                   },
+                   {
+                       "file":  "full_muwatta_5.json",
+                       "sha256":  "602f2acfcca1d6b545b1abd2def117c2347c83e7912cb4dd7cc7bd24837e55be",
+                       "bytes":  1105207,
+                       "from":  717,
+                       "to":  884
+                   },
+                   {
+                       "file":  "full_muwatta_6.json",
+                       "sha256":  "4c81c611c66bb281bf04873c259b06265fdc6c2c8c1bbeb2037f4fcdcf937b62",
+                       "bytes":  1081688,
+                       "from":  885,
+                       "to":  988
+                   },
+                   {
+                       "file":  "full_muwatta_7.json",
+                       "sha256":  "ac9c1dcd1fb4e78c89b167626d842d0b579004ecc303bcc14543182d8fc542e6",
+                       "bytes":  1096000,
+                       "from":  989,
+                       "to":  1106
+                   },
+                   {
+                       "file":  "full_muwatta_8.json",
+                       "sha256":  "6da357153dbeecb9182cb513194be61c4e064b81efdc812e28640a4468284fdd",
+                       "bytes":  1072823,
+                       "from":  1107,
+                       "to":  1193
+                   },
+                   {
+                       "file":  "full_muwatta_9.json",
+                       "sha256":  "2573b437ad7604a8163c26ee8cbcb55521b4739b5cc781e59d11f6a789e52c7e",
+                       "bytes":  1051149,
+                       "from":  1194,
+                       "to":  1241
+                   },
+                   {
+                       "file":  "full_muwatta_10.json",
+                       "sha256":  "83644362b65ede44fbb4f98e0a401ddf312572cbaffed050813ab53865ffb65b",
+                       "bytes":  1083333,
+                       "from":  1242,
+                       "to":  1318
+                   },
+                   {
+                       "file":  "full_muwatta_11.json",
+                       "sha256":  "d69014d5767dcc5bd66ea16ca4924dc7bbfa61043308b8b961af220f94b7e74d",
+                       "bytes":  1086288,
+                       "from":  1319,
+                       "to":  1453
+                   },
+                   {
+                       "file":  "full_muwatta_12.json",
+                       "sha256":  "8d1a52adce3514341ebd7792879c1ad2c53a693a98dc3b1fd58e2ef5af2e56ad",
+                       "bytes":  728759,
+                       "from":  1454,
+                       "to":  1594
+                   }
+               ],
+    "totalBytes":  12731914
+}

@@ -1,0 +1,66 @@
+﻿{
+    "book":  "ibnmaja",
+    "title":  "سنن ابن ماجه",
+    "numbering":  "Open-Hadith-Data merged numbering",
+    "total":  4332,
+    "withTafseel":  3649,
+    "shards":  [
+                   {
+                       "file":  "full_ibnmaja_1.json",
+                       "sha256":  "44b375876cd1024af7adaf11c01943400c61a2d9bc9d5d24ec9561ea0360c8dc",
+                       "bytes":  1235748,
+                       "from":  1,
+                       "to":  447
+                   },
+                   {
+                       "file":  "full_ibnmaja_2.json",
+                       "sha256":  "9e6cc1ff792663e1567ab11c44869675e308aeb96a7e8b178497328a519a757d",
+                       "bytes":  1284721,
+                       "from":  448,
+                       "to":  1070
+                   },
+                   {
+                       "file":  "full_ibnmaja_3.json",
+                       "sha256":  "ab3673ba85e37527e47379b4b0f82baa51eddaf66bd0699bb7e731332b44d9b5",
+                       "bytes":  1284454,
+                       "from":  1071,
+                       "to":  1630
+                   },
+                   {
+                       "file":  "full_ibnmaja_4.json",
+                       "sha256":  "e61ea3cc980790f663605c23727c2abcd708c5004e5fd343604fb3931a47ad6a",
+                       "bytes":  1267979,
+                       "from":  1631,
+                       "to":  2198
+                   },
+                   {
+                       "file":  "full_ibnmaja_5.json",
+                       "sha256":  "cbc11e2d1342a2fbfc0026579d83e756a8dfbe4aa87b0148fd9093b3a4b9fed5",
+                       "bytes":  1302373,
+                       "from":  2199,
+                       "to":  2822
+                   },
+                   {
+                       "file":  "full_ibnmaja_6.json",
+                       "sha256":  "455ac9cffa0c656d4a3a5ce026f26bf234ca7feadcb9ba74e12d7f22bc123207",
+                       "bytes":  1312300,
+                       "from":  2823,
+                       "to":  3508
+                   },
+                   {
+                       "file":  "full_ibnmaja_7.json",
+                       "sha256":  "87cb29571d78f89ecf6638c8351b27a015b9fcefcde1da06d37595994cbe2aac",
+                       "bytes":  1313152,
+                       "from":  3509,
+                       "to":  4093
+                   },
+                   {
+                       "file":  "full_ibnmaja_8.json",
+                       "sha256":  "43eb0a1cb57cdcc03cacfbfb77abfc7c2fb0a709c79bba43dcc6bd119ca90c28",
+                       "bytes":  572650,
+                       "from":  4094,
+                       "to":  4332
+                   }
+               ],
+    "totalBytes":  9573377
+}
